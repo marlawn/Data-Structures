@@ -9,4 +9,4 @@ Projects for Data Structures
 #### RU Warehouse
 
 #### Infinity War
-Practice with directed and undirected graphs
+- Practice with directed and undirected graphs
