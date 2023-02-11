@@ -1,12 +1,12 @@
 # Data-Structures
 Projects for Data Structures
-## GameOfLife
+- GameOfLife
 
-## RUKindergarten
+- RUKindergarten
 
-## Huffman Coding
+- Huffman Coding
 
-## RU Warehouse
+- RU Warehouse
 
-## Infinity War
+- Infinity War
 Practice with directed and undirected graphs
